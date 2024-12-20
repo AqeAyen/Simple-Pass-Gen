@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/data/data/com.termux/files/home/project/pass-gen",
+  "arguments": ["gcc", "-c", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DNDEBUG", "-o", "build/.objs/pass-gen/linux/arm64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
